@@ -24,6 +24,7 @@
 		26809204297B96B30029BCD2 /* Editing.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Editing.entitlements; sourceTree = "<group>"; };
 		2680920A297B96D10029BCD2 /* BindingEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingEdit.swift; sourceTree = "<group>"; };
 		2680920C297B96E20029BCD2 /* ObservedEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedEdit.swift; sourceTree = "<group>"; };
+		26809223297BA0350029BCD2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		268091EF297B96B20029BCD2 = {
 			isa = PBXGroup;
 			children = (
+				26809223297BA0350029BCD2 /* README.md */,
 				268091FA297B96B20029BCD2 /* Editing */,
 				268091F9297B96B20029BCD2 /* Products */,
 			);
